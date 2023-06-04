@@ -1,6 +1,6 @@
 
-# SC By KANG HORY VPN versi Pertama Fix (SANTRI JOWO)
-![logo](https://raw.githubusercontent.com/kanghory/VPN/main/SS1.png)
+# SC By XLORD
+![logo](https://raw.githubusercontent.com/kanghory/VPN/main/.png)
 # Autoscript SSH & XRAY MULTIPORT 443 & 80
 
 ## For ubuntu 18.04 (minimal instalation) 
@@ -9,7 +9,7 @@
 ```
 * MULTIPORT
 ```
-![logo](https://raw.githubusercontent.com/kanghory/VPN/main/SS2.jpg)
+![logo](https://raw.githubusercontent.com/kanghory/VPN/main/.jpg)
 ## Step 1 update your vps frist
 ```
 wa.me/+6285225171738
@@ -17,16 +17,16 @@ wa.me/+6285225171738
 ## Installation Link<br>
 
   ```html
-wa.me/+6285225171738
+wa.me/+
   ```
 ## JIKA MAU GANTI NAME SERVER SLOW DNS LINK<br>
 
   ```html
-wa.me/+6285225171738
+wa.me/+
   ```  
 ## Jika ingin instal SSH UDP
 ```
-wa.me/+6285225171738
+wa.me/+
  ```
 ## Fitur:
 <br>
@@ -41,7 +41,8 @@ wa.me/+6285225171738
 ✅ XRAY TROJAN TCP TLS 443<br>
 
 ## Order script: wa.me/+6285225171738
-##  t.me/kanghory<br> 
-## Testimoni     t.me/kanghoryvpnpremium<br>
+##  t.me/xlordeuyy<br> 
+## Testimoni     t.me/xlordvpn
+<br>
             
               
