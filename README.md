@@ -40,7 +40,7 @@ wa.me/+
 ✅ XRAY TROJAN TCP XTLS 443<br>
 ✅ XRAY TROJAN TCP TLS 443<br>
 
-## Order script: wa.me/+6285225171738
+## Order script: wa.me/+
 ##  t.me/xlordeuyy<br> 
 ## Testimoni     t.me/xlordvpn
 <br>
