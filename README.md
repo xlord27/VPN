@@ -1,6 +1,6 @@
 
 # SC By XLORD
-![logo](https://raw.githubusercontent.com/kanghory/VPN/main/20230423_200237.png)
+![logo](https://raw.githubusercontent.com/xlord27/VPN/main/20230423_200237.png)
 # Autoscript SSH & XRAY MULTIPORT 443 & 80
 
 ## For ubuntu 18.04 (minimal instalation) 
