@@ -1,5 +1,11 @@
 
-# SC By XLORD
+# welcome to
+![logo](https://raw.githubusercontent.com/xlord27/VPN/main/20230423_200237.png)
+
+
+
+
+# MY LOGO
 ![logo](https://raw.githubusercontent.com/xlord27/VPN/main/20230423_200237.png)
 # Autoscript SSH & XRAY MULTIPORT 443 & 80
 
@@ -9,6 +15,7 @@
 ```
 * MULTIPORT
 ```
+# DONASI OM
 ![logo](https://raw.githubusercontent.com/kanghory/VPN/main/.jpg)
 ## Step 1 update your vps frist
 ```
