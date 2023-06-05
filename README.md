@@ -13,10 +13,10 @@
 ## Ubuntu 20.04 (Recomendation) 
 ## Debian 10,11  Only For First Time Installation (Update Repo) <br>
 ```
-* MULTIPORT
+SC MURMER FULL PITUR😋
 ```
 # DONASI OM
-![logo](https://raw.githubusercontent.com/kanghory/VPN/main/.jpg)
+![logo](https://raw.githubusercontent.com/xlord27/VPN/main/IMG-20230514-WA0390.jpg)
 ## Step 1 update your vps frist
 ```
 wa.me/+6285225171738
