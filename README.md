@@ -19,7 +19,7 @@ SC MURMER FULL PITUR😋
 ![logo](https://raw.githubusercontent.com/xlord27/VPN/main/IMG-20230514-WA0390.jpg)
 ## Step 1 update your vps frist
 ```
-wa.me/+6285225171738
+wa.me/+
  ```
 ## Installation Link<br>
 
