@@ -308,7 +308,7 @@ echo -e "$COLOR1│${BICyan}     STUNNEL ${NC}: $resst" "${BICyan} DROPBEAR ${NC
 echo -e "$COLOR1└─────────────────────────────────────────────────────┘${NC}"
 
 echo -e " $COLOR1┌──────────────────────────────────────────────────┐${NC}" 
-echo -e " $COLOR1│${GREEN}   \033[0m ${BOLD}${YELLOW}SSH     VMESS       VLESS      TROJAN $NC        $COLOR1│" 
+echo -e " $COLOR1│${GREEN}   \033[0m ${BOLD}${YELLOW}SSH     VMESS       VLESS      TROJAN $NC         $COLOR1│" 
 echo -e " $COLOR1│${GREEN}   \033[0m ${Blue} $ssh1        $vma           $vla          $tra $NC           $COLOR1│" 
 echo -e " $COLOR1└──────────────────────────────────────────────────┘${NC}" 
   
