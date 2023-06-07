@@ -71,8 +71,9 @@ expi=`date -d "$masaaktif days" +"%Y-%m-%d"`
 clear
 echo -e ""
 echo -e "${CYAN}————————————————————————————————————————\033[0m${NC}"
-echo -e "\E[44;1;39m                 << XLORD TUNNELING >>            \E[0m"
+echo -e "\E[44;1;39m        << XLORD TUNNELING >>     \E[0m"
 echo -e "${CYAN}————————————————————————————————————————\033[0m${NC}"
+
 echo -e "${LIGHT}Username: $Login"
 echo -e "Password: $Pass"
 echo -e "Dibuat: $hariini"
@@ -104,7 +105,7 @@ echo -e "———————————————————————�
 echo -e "Payload Websocket HTTP"
 echo -e "—————————————————————————"
 echo -e "GET / HTTP/1.1[crlf]Host: $domain[crlf]Upgrade: websocket[crlf][crlf]"
-echo -e "—————————————————————— —————"
+echo -e "——————————————————————————————"
 echo -e "${CYAN}    Terimakasih sudah menggunakan-
-echo -e "${CYAN}         Script Credit by Xlord
+                       Script Credit by Xlord"
 echo -e "${LIGHT}——————————————————————"
