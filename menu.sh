@@ -291,7 +291,7 @@ echo -e "$COLOR1│  ${NC}            ${YELLOW}<< XLORD VPN STORE >>${NC}       
 echo -e "$COLOR1└──────────────────────────────────────────────────┘${NC}" 
 echo -e " $COLOR1┌──────────────────────────────────────────────────┐${NC}"
 echo -e "$COLOR1 │${NC} ✪$bd OS NAME    : ${BICyan}$cname${NC}"
-echo -e "$COLOR1 │${NC} ✪$bd Use Core   : ${BICyan}Multi Lite${NC}"
+echo -e "$COLOR1 │${NC} ✪$bd Use Core   : ${BICyan}Multi Pro${NC}"
 echo -e "$COLOR1 │${NC} ✪$bd RAM VPS    : ${BICyan}${totalram} MB${NC}"
 echo -e "$COLOR1 │${NC} ✪$bd IP VPS     : ${BICyan}$IPVPS${NC}"
 echo -e "$COLOR1 │${NC} ✪$bd DATE       : ${BICyan}$DATEVPS${NC}"
@@ -303,7 +303,7 @@ echo -e "$COLOR1 │${NC} ✪$bd KATA KATA  : \033[31;1m𝗝𝗔𝗡𝗚𝗔𝗡
 echo -e "$COLOR1 └──────────────────────────────────────────────────┘${NC}" 
 
 echo -e "$COLOR1┌─────────────────────────────────────────────────────┐${NC}"
-echo -e "$COLOR1│${BICyan} SSH ${NC}: $ressh"" ${BICyan} NGINX ${NC}: $resngx"" ${BICyan}  XRAY ${NC}: $resv2r"" ${BICyan} TROJAN ${NC}: $resv2r       $COLOR1│"
+echo -e "$COLOR1│${BICyan} SSH ${NC}: $ressh"" ${BICyan} NGINX ${NC}: $resngx"" ${BICyan}  XRAY ${NC}: $resv2r"" ${BICyan} TROJAN ${NC}: $resv2r     $COLOR1│"
 echo -e "$COLOR1│${BICyan}     STUNNEL ${NC}: $resst" "${BICyan} DROPBEAR ${NC}: $resdbr" "${BICyan} SSH-WS ${NC}: $ressshws        $COLOR1│"
 echo -e "$COLOR1└─────────────────────────────────────────────────────┘${NC}"
 
@@ -339,7 +339,7 @@ datediff() {
 }
 mai="datediff "$Exp" "$DATE""
 echo -e " $COLOR1┌─────────────────────────────────────┐${NC}"
-echo -e " $COLOR1│${NC}   Version        : $(cat /opt/.ver) 4.0 Lite ${NC}"
+echo -e " $COLOR1│${NC}   Version        : $(cat /opt/.ver) 4.0 Pro ${NC}"
 echo -e " $COLOR1│${NC}   Client         :\033[1;36m $Name \e[0m"
 echo -e " $COLOR1│${NC}   Order By       : ${BIRed}XLORD VPN${NC}"
 if [ $exp \< 1000 ];
